@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-  background: url("https://mi.by/upload/iblock/68c/lgrpesm0timucz6fbdzrnt8f4ol6p0ry.png");
-  background-repeat: repeat;
+  /*background: url("https://mi.by/upload/iblock/68c/lgrpesm0timucz6fbdzrnt8f4ol6p0ry.png");
+  background-repeat: repeat;*/
+  background-color: #181818;
 }
 
 body h1,
@@ -46,16 +47,15 @@ body h1,
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #ECF0F2;
-  border: 2px solid #FF6700;
+  background: #181818;
   overflow: hidden;
   border-radius: 15px;
-  width: 23%;
+  width: 32%;
 }
 
 .nav_title div:hover {
-  background: #FF6700;
-  color: #fff;
+  background: #fff;
+  color: #000;
   transition: 0.5s;
 }
 
@@ -65,16 +65,18 @@ body h1,
   user-select: none;
   box-sizing: border-box;
   cursor: pointer;
-  color: #000;
+  color: #fff;
   font-weight: 700;
   padding: 15px 30px;
   transition: 0.3s;
   width: 100%;
   height: 100%;
+  border: 2px solid #fff;
+  border-radius: 15px;
 }
 
 .nav_title a:hover {
-  color: #fff;
+  color: #000;
   transition: 0.5s;
 }
 
@@ -82,11 +84,11 @@ body h2 {
   padding: 10px 0;
   font-family: 'Montserrat', sans-serif;
   font-size: 32px;
-  text-align: left;
+  text-align: center;
   max-width: 1290px;
   margin: 60px auto 20px;
-  color: #000;
-  font-weight: 700;
+  color: #fff;
+  font-weight: 300;
 }
 
 h2 img {
