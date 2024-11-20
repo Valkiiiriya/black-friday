@@ -91,8 +91,15 @@ body h2 {
   font-weight: 300;
 }
 
-h2 img {
-  padding-left: 5px;
+.paragraph {
+  padding: 10px 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  text-align: left;
+  max-width: 1290px;
+  margin: 0 auto 10px;
+  color: #fff;
+  font-weight: 500;
 }
 
 .cards {
@@ -687,4 +694,8 @@ h2 img {
 
 .mi_color {
   color: #ff6700;
+}
+
+.bf_color {
+  color: #FFE69C;
 }
