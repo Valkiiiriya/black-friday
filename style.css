@@ -311,7 +311,7 @@ body h2 {
   font-size: 16px;
   color: #898989;
   padding-left: 10px;
-  width: 49%;
+  width: 48%;
 }
 
 .card__title {
@@ -481,7 +481,7 @@ body h2 {
   }
 
   .card__price--discount {
-    font-size: 18px;
+    font-size: 17px;
   }
 
   .card__price--credit,
@@ -497,8 +497,8 @@ body h2 {
   }
 
   .card__price--discount::before {
-    width: 18px;
-    height: 18px;
+    width: 17px;
+    height: 17px;
   }
 
   .card__price--common {
@@ -570,7 +570,8 @@ body h2 {
   }
 
   .card__price--discount {
-    font-size: 14px;
+    font-size: 13px;
+    padding: 6px;
   }
 
   .card__price--gift::before,
@@ -586,8 +587,8 @@ body h2 {
   }
 
   .card__price--discount::before {
-    width: 14px;
-    height: 14px;
+    width: 13px;
+    height: 13px;
   }
 
   .card__price--watch {
