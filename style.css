@@ -380,7 +380,7 @@ body h2 {
 @media screen and (max-width: 1299px) and (min-width: 975px) {
  
   body h2 {
-    font-size: 24px;
+    font-size: 36px;
     max-width: 965px;
   }
   .nav_title {
@@ -396,7 +396,7 @@ body h2 {
 
 @media screen and (max-width: 974px) and (min-width: 680px) {
   body h2 {
-    font-size: 22px;
+    font-size: 34px;
     max-width: 640px;
   }
 
@@ -424,7 +424,7 @@ body h2 {
   }
   
   body h2 {
-    font-size: 20px;
+    font-size: 34px;
     max-width: 620px;
     margin: 45px auto 15px;
   }
@@ -447,7 +447,7 @@ body h2 {
 
 @media screen and (max-width: 659px) and (min-width: 451px) {
   body h2 {
-    font-size: 18px;
+    font-size: 34px;
     max-width: 410px;
     margin: 30px auto 10px;
   }
@@ -555,7 +555,7 @@ body h2 {
 
 @media screen and (max-width: 450px) and (min-width: 390px) {
   body h2 {
-    font-size: 20px;
+    font-size: 30px;
     max-width: 345px;
     margin: 30px auto 10px;
   }
@@ -669,7 +669,7 @@ body h2 {
 
 @media screen and (max-width: 389px) {
   body h2 {
-    font-size: 20px;
+    font-size: 40px;
     max-width: 315px;
     margin: 30px auto 10px;
   }
