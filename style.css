@@ -192,7 +192,7 @@ body h2 {
   position: absolute;
   bottom: 10px;
   left: 20px;
-  background: #FF6700;
+  background: #000;
   border-radius: 8px;
   font-weight: 500;
   font-size: 16px;
@@ -481,7 +481,7 @@ body h2 {
   }
 
   .card__price--discount {
-    font-size: 17px;
+    font-size: 16px;
   }
 
   .card__price--credit,
@@ -497,8 +497,8 @@ body h2 {
   }
 
   .card__price--discount::before {
-    width: 17px;
-    height: 17px;
+    width: 16px;
+    height: 16px;
   }
 
   .card__price--common {
@@ -570,7 +570,7 @@ body h2 {
   }
 
   .card__price--discount {
-    font-size: 13px;
+    font-size: 12px;
     padding: 6px;
   }
 
@@ -587,8 +587,8 @@ body h2 {
   }
 
   .card__price--discount::before {
-    width: 13px;
-    height: 13px;
+    width: 12px;
+    height: 12px;
   }
 
   .card__price--watch {
