@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-  /*background: url("https://mi.by/upload/iblock/68c/lgrpesm0timucz6fbdzrnt8f4ol6p0ry.png");
-  background-repeat: repeat;*/
+  background: url("https://mi.by/upload/iblock/dde/j9027q6prsei97ckevmxyng2vz5la2li.png");
+  background-size: 100% auto;
+  background-position-y: bottom;
+  background-repeat: no-repeat;
   background-color: #181818;
 }
 
