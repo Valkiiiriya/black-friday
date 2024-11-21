@@ -225,6 +225,10 @@ body h2 {
   margin: 0;
 }
 
+.card_name {
+  height: 51px;
+}
+
 .card__bottom {
   display: flex;
   flex-direction: column;
