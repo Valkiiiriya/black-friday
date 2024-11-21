@@ -226,7 +226,7 @@ body h2 {
 }
 
 .card_name {
-  height: 51px;
+  height: 55px;
 }
 
 .card__bottom {
@@ -610,7 +610,7 @@ body h2 {
   }
 
   .card__title {
-    font-size: 12px;
+    font-size: 13px;
     margin: 0 10px 5px;
   }
 
